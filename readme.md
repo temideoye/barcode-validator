@@ -1,4 +1,4 @@
-# [Barcode Validator](https://github.com/temideoye/barcode-validator/)
+# [Barcode Validator](https://github.com/temideoye/barcode-validator/) [![npm package](https://badge.fury.io/js/barcode-validator.svg)](https://badge.fury.io/js/barcode-validator)
 
 A tiny JavaScript library for validating barcodes.
 
@@ -31,4 +31,4 @@ validbarcode(972660036810); // false
 
 ## License
 
-Barcode Validator is MIT licensed. See the [license](./license) file for more information.
+Barcode Validator is MIT licensed. See [license](./license) file for more information.

@@ -1,0 +1,28 @@
+{
+  "name": "barcode-validator",
+  "version": "1.0.0",
+  "description": "A tiny JavaScript library for validating barcodes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erm, test scripts pending.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temideoye/barcode-validator.git"
+  },
+  "keywords": [
+    "Barcode",
+    "Validator",
+    "GS1",
+    "EAN13",
+    "EAN8",
+    "UPCA",
+    "UPCE"
+  ],
+  "author": "Temi Adeoye <ta@temi.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/temideoye/barcode-validator/issues"
+  },
+  "homepage": "https://github.com/temideoye/barcode-validator#readme"
+}

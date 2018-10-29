@@ -1,6 +1,6 @@
 {
   "name": "barcode-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny JavaScript library for validating barcodes.",
   "main": "index.js",
   "scripts": {

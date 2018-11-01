@@ -2,7 +2,7 @@
 
 A tiny JavaScript library for validating barcodes.
 
-Supported symbologies: EAN13, EAN8, UPCA, and UPCE. For more information on the validation algorithm, see official [GS1 guide](https://www.gs1.org/services/how-calculate-check-digit-manually) on calculating valid barcode check digits.
+Supported symbologies: EAN-13, EAN-8, UPC-A, and UPC-E. For more information on the validation algorithm, see official [GS1 guide](https://www.gs1.org/services/how-calculate-check-digit-manually) on calculating valid barcode check digits.
 
 ---
 

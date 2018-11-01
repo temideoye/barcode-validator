@@ -1,6 +1,6 @@
 {
   "name": "barcode-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny JavaScript library for validating barcodes.",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,10 @@
     "Barcode",
     "Validator",
     "GS1",
-    "EAN13",
-    "EAN8",
-    "UPCA",
-    "UPCE"
+    "EAN-13",
+    "EAN-8",
+    "UPC-A",
+    "UPC-E"
   ],
   "author": "Temi Adeoye <ta@temi.io>",
   "license": "MIT",
